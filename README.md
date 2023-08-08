@@ -6,8 +6,8 @@ yarn run cypress open
 
 # 2. Select a postcode and choose a fulfilment method.
 
-# 3. Assert the menu page is displayed.
+# 3. Add an Original Cheese & Tomato pizza to the basket.
 
-# 4. Assert the expected Store and fulfilment are displayed in the header.
+# 4. Navigate to the basket.
 
-# 5. Add a Original Cheese & Tomato pizza to the basket.
+# 5. Assert the Original Cheese & Tomato Pizza is displayed in the basket.
